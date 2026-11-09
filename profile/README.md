@@ -4,7 +4,3 @@
 </picture>
 
 digital infrastructure that feels magical
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/handh-dev/handh-dev/main/brand/AGENTS.md
-```
